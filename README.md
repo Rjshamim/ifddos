@@ -95,8 +95,8 @@ Our social's💻
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="64" height="64" alt="telegram" />
 </div>
 
- * [Matrix community Telegram channel](https://t.me/iehf4343_Development)
- * [Matrix team Telegram Group](https://t.me/iehf5)
+ * [scammerplaybackbd community Telegram channel](https://t.me/iehf4343_Development)
+ * [iehf team Telegram Group](https://t.me/iehf5)
  * [GitHub](https://github.com/rjshamim)
 ### If u Like the project, leave a star on the repository!
 
